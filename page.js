@@ -1,4 +1,4 @@
-console ("login page successfully loaded");
+console.log ("login page successfully loaded");
 // This is the login page for the application. It will be used to authenticate users and allow them to access the application. 
 // The login page will have a form that will ask for the user's email and password. 
 function handleLogin(event) {
